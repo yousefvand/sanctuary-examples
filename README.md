@@ -14,6 +14,12 @@ Read each project `README.md` for more details.
   - [take](basics/array/take.md)
   - [takeLast](basics/array/take-last.md)
   - [reverse](basics/array/reverse.md)
+- [Math](basics/math/README.md)
+  - [add](basics/math/add.md)
+  - [subtract](basics/math/sub.md)
+  - [multiply](basics/math/mult.md)
+  - [divide](basics/math/div.md)
+  - [power](basics/math/pow.md)
 - [Maybe](COMINGSOON.md)
 
 ----------
