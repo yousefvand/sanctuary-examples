@@ -1,4 +1,4 @@
-# Basics
+# Basic
 
 - ## [Array](array/README.md)
 

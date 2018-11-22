@@ -4,23 +4,27 @@ Example projects using [sanctuary.js](https://github.com/sanctuary-js/sanctuary)
 
 Read each project `README.md` for more details.
 
-## [Basics](basics/README.md)
+## [Basic](basic/README.md)
 
-- [Array](basics/array/README.md)
-  - [head](basics/array/head.md)
-  - [slice](basics/array/slice.md)
-  - [sort](basics/array/sort.md)
-  - [tail](basics/array/tail.md)
-  - [take](basics/array/take.md)
-  - [takeLast](basics/array/take-last.md)
-  - [reverse](basics/array/reverse.md)
-- [Math](basics/math/README.md)
-  - [add](basics/math/add.md)
-  - [subtract](basics/math/sub.md)
-  - [multiply](basics/math/mult.md)
-  - [divide](basics/math/div.md)
-  - [power](basics/math/pow.md)
+- [Array](basic/array/README.md)
+  - [head](basic/array/head.md)
+  - [slice](basic/array/slice.md)
+  - [sort](basic/array/sort.md)
+  - [tail](basic/array/tail.md)
+  - [take](basic/array/take.md)
+  - [takeLast](basic/array/take-last.md)
+  - [reverse](basic/array/reverse.md)
+- [Math](basic/math/README.md)
+  - [add](basic/math/add.md)
+  - [subtract](basic/math/sub.md)
+  - [multiply](basic/math/mult.md)
+  - [divide](basic/math/div.md)
+  - [power](basic/math/pow.md)
 - [Maybe](COMINGSOON.md)
+
+## [Intermediate](intermediate/README.md)
+
+## [Advance](advance/README.md)
 
 ----------
 

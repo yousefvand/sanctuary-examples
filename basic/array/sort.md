@@ -30,6 +30,6 @@ Back to
 
 - [Array](README.md)
 
-- [Basics](../README.md)
+- [Basic](../README.md)
 
 - [Main](../../README.md)
