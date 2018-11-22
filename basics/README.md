@@ -1,3 +1,3 @@
-# Array
+# Basics
 
-## [head](head.md)
+## [Array](array/README.md)

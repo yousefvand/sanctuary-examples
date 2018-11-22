@@ -1,0 +1,2 @@
+const S = require('sanctuary')
+
