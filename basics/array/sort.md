@@ -1,8 +1,8 @@
 # [Array](../README.md)
 
-## reverse
+## sort
 
-`reverse` function returns a reverses version of the input array.
+`sort` function returns a sorted version of the input array.
 
 ```js
 const S = require('sanctuary')
