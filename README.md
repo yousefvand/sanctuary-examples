@@ -17,12 +17,23 @@ Read each project `README.md` for more details.
 - [Math](basic/math/README.md)
   - [add](basic/math/add.md)
   - [subtract](basic/math/sub.md)
+  - [less than](basic/math/lt.md)
+  - [less than or equal](basic/math/lte.md)
+  - [greater than](basic/math/gt.md)
+  - [greater than or equal](basic/math/gte.md)
   - [multiply](basic/math/mult.md)
   - [divide](basic/math/div.md)
   - [power](basic/math/pow.md)
+- [String](basic/string/README.md)
+  - [lines](basic/string/lines.md)
+  - [words](basic/string/words.md)
+  - [toUpper](basic/string/toupper.md)
+  - [toLower](basic/string/tolower.md)
 - [Maybe](COMINGSOON.md)
 
 ## [Intermediate](intermediate/README.md)
+
+- [Given any strings, return the dotted abbreviation](intermediate/abbreviate.md)
 
 ## [Advance](advance/README.md)
 
@@ -41,6 +52,12 @@ and to `Run` example:
 ```bash
 node script.js
 ```
+
+----------
+
+## Acknowledgments
+
+To All guys in [sanctuary chat room](https://gitter.im/sanctuary-js/sanctuary) who patiently answered the questions and provided understandable analogies and examples.
 
 ----------
 

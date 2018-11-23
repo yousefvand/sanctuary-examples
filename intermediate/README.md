@@ -1,3 +1,3 @@
 # Intermediate
 
-- ## [Coming soon](../COMINGSOON.md)
+- ## [Given any strings, return the dotted abbreviation](abbreviate.md)
