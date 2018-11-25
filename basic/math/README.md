@@ -4,6 +4,10 @@
 
 - ## [subtract](sub.md)
 
+- ## [minimum](min.md)
+
+- ## [maximum](max.md)
+
 - ## [lt](lt.md)
 
 - ## [lte](lte.md)
