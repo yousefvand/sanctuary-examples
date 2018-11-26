@@ -7,8 +7,13 @@ Read each project `README.md` for more details.
 ## [Basic](basic/README.md)
 
 - [Array](basic/array/README.md)
+  - [drop](basic/array/drop.md)
+  - [dropLast](basic/array/drop-last.md)
   - [head](basic/array/head.md)
+  - [product](basic/array/product.md)
+  - [range](basic/array/range.md)
   - [slice](basic/array/slice.md)
+  - [size](basic/array/size.md)
   - [sort](basic/array/sort.md)
   - [tail](basic/array/tail.md)
   - [take](basic/array/take.md)
@@ -28,6 +33,7 @@ Read each project `README.md` for more details.
   - [greater than](basic/math/gt.md)
   - [greater than or equal](basic/math/gte.md)
   - [multiply](basic/math/mult.md)
+  - [negate](basic/math/negate.md)
   - [divide](basic/math/div.md)
   - [power](basic/math/pow.md)
 - [String](basic/string/README.md)
@@ -43,6 +49,7 @@ Read each project `README.md` for more details.
 ## [Intermediate](intermediate/README.md)
 
 - [Given any strings, return the word count](intermediate/word-count.md)
+- [Given any number, return the factorial (product of 1 to given number)](intermediate/factorial.md)
 - [Given any strings, return the dotted abbreviation](intermediate/abbreviate.md)
 
 ## [Advance](advance/README.md)

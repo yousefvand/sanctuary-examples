@@ -1,8 +1,18 @@
 # Array
 
+- ## [drop](drop.md)
+
+- ## [dropLast](drop-last.md)
+
 - ## [head](head.md)
 
+- ## [product](product.md)
+
+- ## [range](range.md)
+
 - ## [slice](slice.md)
+
+- ## [size](size.md)
 
 - ## [sort](sort.md)
 

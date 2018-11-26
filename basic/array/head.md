@@ -40,7 +40,6 @@ using `unchecked`.
 */
 const outputEmptyUnchecked = S.unchecked.fromMaybe('Array is empty')(resultEmpty)
 console.log(outputEmptyUnchecked) // Array is empty
-
 ```
 
 ----------

@@ -18,6 +18,8 @@
 
 - ## [multiply](mult.md)
 
+- ## [negate](negate.md)
+
 - ## [divide](div.md)
 
 - ## [power](pow.md)
