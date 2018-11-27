@@ -44,13 +44,17 @@ Read each project `README.md` for more details.
   - [toUpper](basic/string/toupper.md)
   - [toLower](basic/string/tolower.md)
   - [trim](basic/string/trim.md)
-- [Maybe](COMINGSOON.md)
+- [types](basic/types/README.md)
+  - [maybe](basic/types/maybe.md)
+  - [either](basic/types/either.md)
+  - [pair](basic/types/pair.md)
 
 ## [Intermediate](intermediate/README.md)
 
 - [Given any strings, return the word count](intermediate/word-count.md)
 - [Given any number, return the factorial (product of 1 to given number)](intermediate/factorial.md)
 - [Given any strings, return the dotted abbreviation](intermediate/abbreviate.md)
+- [Find localized url version for a given user](intermediate/user-url.md)
 
 ## [Advance](advance/README.md)
 
