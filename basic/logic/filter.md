@@ -2,7 +2,7 @@
 
 ## filter
 
-`filter` Returns a copy of input container elements except the ones which does not satisfy the predicate.
+`filter` returns a copy of input container elements except the ones which does not satisfy the predicate.
 
 ```js
 const S = require('sanctuary')

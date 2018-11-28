@@ -24,9 +24,9 @@ const urls = {
 
 // getURLForUser :: User -> String
 const getURLForUser = S.pipe([
-  S.gets(S.is($.String))(['prefs', 'lang']),
-  S.chain(S.flip(S.get(S.K(true)))(urls)),
-  S.fromMaybe(S.prop('en')(urls))
+  S.gets(S.is($.String))(['prefs', 'lang']), // read object property of 'prefs/lang' if possible
+  S.chain(S.flip(S.get(S.K(true)))(urls)), // get url based n user 'prefs/lang'
+  S.fromMaybe(S.prop('en')(urls)) // default lang is 'en' in case of Nothing
 ])
 
 console.log(getURLForUser(user1)) // http://example.com/en
