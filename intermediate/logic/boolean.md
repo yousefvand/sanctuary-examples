@@ -1,8 +1,8 @@
 # Booleans, from imperative to declarative programming
 
-One of the first things you will find missing after coming from [imperative](wikipedia) to [declarative](wikipedia) style of programming, are booleans (True, false) and the logic depending on them (if...else, loops...).
+One of the first things you will find missing after coming from [imperative](https://en.wikipedia.org/wiki/Imperative_programming) to [declarative](https://en.wikipedia.org/wiki/Declarative_programming) style of programming, are booleans (True, false) and the logic depending on them (if...else, loops...).
 
-What happens to this building blocks of `imperative` programming in [FP](wikipedia)?
+What happens to this building blocks of `imperative` programming in [FP](https://en.wikipedia.org/wiki/Functional_programming)?
 
 In `FP` we don't engage in details. If booleans are details then what is the purpose of using them? True/False are intermediate temporary products we use to **choose** between two way of doing things (branch). After all everything in `FP` is  `Function`, even `True` and `False`.
 
