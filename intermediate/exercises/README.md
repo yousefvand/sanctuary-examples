@@ -1,4 +1,4 @@
-# Intermediate
+# Exercises
 
 - ## [Given any strings, return the word count](word-count.md)
 

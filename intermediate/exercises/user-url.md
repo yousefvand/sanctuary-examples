@@ -81,6 +81,6 @@ console.log(getURLForUser(user2)) // http://example.com/eo
 
 Back to
 
-- [Intermediate](README.md)
+- [Exercises](README.md)
 
-- [Main](../README.md)
+- [Main](../../README.md)

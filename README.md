@@ -59,12 +59,15 @@ Read each project `README.md` for more details.
   - [either](basic/types/either.md)
   - [pair](basic/types/pair.md)
 
-## [Intermediate](intermediate/README.md)
+## Intermediate
 
-- [Given any strings, return the word count](intermediate/word-count.md)
-- [Given any number, return the factorial (product of 1 to given number)](intermediate/factorial.md)
-- [Given any strings, return the dotted abbreviation](intermediate/abbreviate.md)
-- [Find localized url version for a given user](intermediate/user-url.md)
+- [Logic](intermediate/logic/README.md)
+  - [Boolean](intermediate/logic/boolean.md)
+- Exercises
+  - [Given any strings, return the word count](intermediate/exercises/word-count.md)
+  - [Given any number, return the factorial (product of 1 to given number)](intermediate/exercises/factorial.md)
+  - [Given any strings, return the dotted abbreviation](intermediate/exercises/abbreviate.md)
+  - [Find localized url version for a given user](intermediate/exercises/user-url.md)
 
 ## [Advance](advance/README.md)
 

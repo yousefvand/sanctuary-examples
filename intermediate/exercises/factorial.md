@@ -45,6 +45,6 @@ console.log(factorial(4)) // 24
 
 Back to
 
-- [Intermediate](README.md)
+- [Exercises](README.md)
 
-- [Main](../README.md)
+- [Main](../../README.md)

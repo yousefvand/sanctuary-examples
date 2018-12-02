@@ -41,6 +41,6 @@ console.log(wordCount(sample)) // 91
 
 Back to
 
-- [Intermediate](README.md)
+- [Exercises](README.md)
 
-- [Main](../README.md)
+- [Main](../../README.md)

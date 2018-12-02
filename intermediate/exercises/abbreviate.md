@@ -54,6 +54,6 @@ console.log(abbreviate('First in never out')) // F.I.N.O
 
 Back to
 
-- [Intermediate](README.md)
+- [Exercises](README.md)
 
-- [Main](../README.md)
+- [Main](../../README.md)
