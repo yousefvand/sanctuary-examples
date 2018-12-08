@@ -12,4 +12,12 @@
 
 - ## [toUpper](toupper.md)
 
+- ## [splitOn](split-on.md)
+
+- ## [splitOnRegex](split-on-regex.md)
+
+- ## [stripPrefix](strip-prefix.md)
+
+- ## [stripSuffix](strip-suffix.md)
+
 - ## [trim](trim.md)
