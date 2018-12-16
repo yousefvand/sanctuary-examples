@@ -1,5 +1,7 @@
 # String
 
+- ## [concat](concat.md)
+
 - ## [lines](lines.md)
 
 - ## [unlines](unlines.md)

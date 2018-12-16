@@ -2,9 +2,13 @@
 
 - ## [at](at.md)
 
+- ## [concat](concat.md)
+
 - ## [drop](drop.md)
 
 - ## [dropLast](drop-last.md)
+
+- ## [dropWhile](drop-while.md)
 
 - ## [head](head.md)
 
@@ -21,6 +25,8 @@
 - ## [tail](tail.md)
 
 - ## [take](take.md)
+
+- ## [takeWhile](take-while.md)
 
 - ## [takeLast](take-last.md)
 
